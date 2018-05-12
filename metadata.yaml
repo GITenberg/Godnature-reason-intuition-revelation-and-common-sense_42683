@@ -1,0 +1,30 @@
+_repo: Godnature-reason-intuition-revelation-and-common-sense_42683
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtis, T. D. (Thomas Day)
+    alias: Curtis, Thomas Day
+    gutenberg_agent_id: '41800'
+    url: http://www.gutenberg.org/2009/agents/41800
+description: ''
+gutenberg_issued: '2013-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious poetry'
+- !lcc 'PS'
+- !lcsh 'God -- Poetry'
+title: 'God
+
+  Outlines of the new theology, based on facts, science,
+
+  nature, reason, intuition, revelation and common sense'
+url: http://www.gutenberg.org/ebooks/42683
